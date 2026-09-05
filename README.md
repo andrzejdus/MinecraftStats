@@ -42,6 +42,8 @@ This section will guide you through getting *MinecraftStats* up and running.
 
 *MinecraftStats* supports Minecraft 1.13 or later. For the web frontend, a webserver is required.
 
+Recent versions of Minecraft (26.2 at the time of writing) keep the per-player `stats` and `advancements` directories in a `players` subdirectory of the world directory; *MinecraftStats* detects either layout automatically.
+
 #### Plugin
 
 The plugin can be used in any server capable of running Spigot plugins, particularly [Spigot](https://www.spigotmc.org/) or [PaperMC](https://papermc.io/). *MinecraftStats* automatically detects the following plugins that feature a webserver:
