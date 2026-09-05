@@ -1,6 +1,6 @@
 # MinecraftStats
 
-[![Minecraft 1.13 to 1.12](https://img.shields.io/badge/Minecraft-1.13%20--%201.20-brightgreen)](https://www.minecraft.net/) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://github.com/pdinklag/MinecraftStats/blob/master/LICENSE.txt) [![Example Installation at DVGaming.com](https://img.shields.io/badge/Example-DVGaming.COM%20Snapshot%20Server-blue)](http://mine3.dvgaming.com/) [![Discord](https://img.shields.io/discord/850982115633790976.svg?label=Discord&logo=discord&logoColor=ffffff&color=8399E8&labelColor=7A7EC2)](https://discord.gg/brH5PGG8By)
+[![Minecraft 1.13 or later](https://img.shields.io/badge/Minecraft-1.13%2B-brightgreen)](https://www.minecraft.net/) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://github.com/pdinklag/MinecraftStats/blob/master/LICENSE.txt) [![Example Installation at DVGaming.com](https://img.shields.io/badge/Example-DVGaming.COM%20Snapshot%20Server-blue)](http://mine3.dvgaming.com/) [![Discord](https://img.shields.io/discord/850982115633790976.svg?label=Discord&logo=discord&logoColor=ffffff&color=8399E8&labelColor=7A7EC2)](https://discord.gg/brH5PGG8By)
 
 _MinecraftStats_ is a web browser application for the [statistics](https://minecraft.wiki/w/Statistics) that Minecraft servers collect for players.
 
